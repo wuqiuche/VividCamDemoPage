@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VividCamDemoPage/static/css/main.c936cd86.css",
-    "main.js": "/VividCamDemoPage/static/js/main.1f937c28.js",
+    "main.js": "/VividCamDemoPage/static/js/main.bedff4d4.js",
     "static/js/787.71e672d5.chunk.js": "/VividCamDemoPage/static/js/787.71e672d5.chunk.js",
     "static/media/3-rotate-0-ourscog.mp4": "/VividCamDemoPage/static/media/3-rotate-0-ourscog.375f0c8535da0c7c0556.mp4",
     "static/media/method-01.png": "/VividCamDemoPage/static/media/method-01.9bac302a3764bb80a67a.png",
@@ -85,11 +85,11 @@
     "static/media/outline-icons.woff2": "/VividCamDemoPage/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/VividCamDemoPage/index.html",
     "main.c936cd86.css.map": "/VividCamDemoPage/static/css/main.c936cd86.css.map",
-    "main.1f937c28.js.map": "/VividCamDemoPage/static/js/main.1f937c28.js.map",
+    "main.bedff4d4.js.map": "/VividCamDemoPage/static/js/main.bedff4d4.js.map",
     "787.71e672d5.chunk.js.map": "/VividCamDemoPage/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c936cd86.css",
-    "static/js/main.1f937c28.js"
+    "static/js/main.bedff4d4.js"
   ]
 }
